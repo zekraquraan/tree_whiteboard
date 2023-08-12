@@ -2,5 +2,5 @@
 ## WhiteBoard 
 ## Author: zekra quraan 
 
-![wh1](./append2.png)
-![wh2](./insert2.png)
+![wh1](./insert2.png)
+![wh2](./wh66.png)
